@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "dataHora",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

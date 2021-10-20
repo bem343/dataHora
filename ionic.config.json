@@ -1,0 +1,7 @@
+{
+  "name": "dataHora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

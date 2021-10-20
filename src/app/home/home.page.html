@@ -1,0 +1,21 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Data e Hora - {{ data }}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Blank</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <img height="300" src="assets/relogio.gif"/>
+    <p>Espere até às {{ cHora }}:{{ cMinuto }}:{{ cSegundo }} </p>
+  </div>
+
+</ion-content>
